@@ -1,0 +1,9 @@
+{
+  "original_request_id": "req_123",
+  "follow_up_status": "processed",
+  "follow_up_result": {
+    "summary": "Successfully processed: Hello world",
+    "original_confidence": 0.98,
+    "requires_review": false
+  }
+}
