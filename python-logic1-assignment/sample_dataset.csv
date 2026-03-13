@@ -1,0 +1,12 @@
+Name,Age,Score,Label
+Alice,25,85,Pass
+Bob,30,92,Pass
+Charlie,35,78,Fail
+David,28,88,Pass
+Eve,22,95,Pass
+Frank,40,70,Fail
+Grace,32,82,Pass
+Hank,29,90,Pass
+Ivy,26,85,Pass
+Jack,38,76,Fail
+Kevin,45,60,Fail
